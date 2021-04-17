@@ -26,3 +26,12 @@ function fetch(link) {
 }
 
 fetch(link);
+
+//------------- using async await-----------
+// async function getUser(){
+//   try {
+    
+//   } catch (error) {
+    
+//   }
+// }
